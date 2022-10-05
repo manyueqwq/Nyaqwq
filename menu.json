@@ -338,7 +338,7 @@
       "spicy": false,
       "easteregg":
       {
-        "text": "",
+        "text": "炸只因",
         "img": ""
       }
     },
@@ -549,8 +549,26 @@
         "text": "清蒸还是红烧？",
         "img": ""
       }
-      
+    },
+    {
+      "name": "补佳乐",
+      "spicy": false,
+      "easteregg":
+      {
+        "text": "？？？？？？？？？",
+        "img": ""
+      }
+    },
+    {
+      "name": "木桶饭",
+      "spicy": false,
+      "easteregg":
+      {
+        "text": "MtF是吧",
+        "img": ""
+      }
     }
+    
   ],
   "imgArr":[
     "https://s2.loli.net/2022/03/22/ziBZExN1WXU5afq.jpg",
